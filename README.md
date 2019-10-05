@@ -1,4 +1,4 @@
-**Other language: [Chinese](https://github.com/bipy/Sort-Algorithm-Comparison/README_CN.md)**
+**Other language: [Chinese](https://github.com/bipy/Sort-Algorithm-Comparison/blob/master/README_CN.md)**
 
 # About this repositories
 
