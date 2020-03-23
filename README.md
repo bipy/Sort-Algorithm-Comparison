@@ -1,6 +1,6 @@
 **Other language: [Chinese](https://github.com/bipy/Sort-Algorithm-Comparison/blob/master/README_CN.md)**
 
-# About this repositories
+# About
 
 Time cost comparison among various sort algorithm written by Java. Once I have done this before, but I thought that didn't satisfy me afterwards. The previous version has lots of problems (this one as well : )
 
