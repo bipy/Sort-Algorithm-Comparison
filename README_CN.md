@@ -10,7 +10,7 @@
 
 # Blog
 
-[排序算法的比较 (Java)](https://bipy.github.io/blog/Sort-Algorithm-Comparison/)
+[排序算法的比较 (Java)](https://blog.zhengrh.com/post/Sort-Algorithm-Comparison/)
 
 # Feature
 
@@ -59,9 +59,9 @@
 - Case 5：10^5个逆序元素，初始值5×10^4，递减步距范围[0,5)，数学期望为1
 - Case 6：10^5个基本有序元素，取正序元素流，设无序率为unordered，随机shuffle其中N×unordered个元素
 
-# 总结
 
-## 程序运行结果
+
+# 程序运行结果
 
 ```text
     0     0     0     0     0     0     0     0 
@@ -76,7 +76,7 @@ Process finished with exit code 0
 
 ```
 
-## 统计数据 (ms)
+# 统计数据 (ms)
 
 | 测试点 \ 排序算法                                  | 随机快排 | 快排 | 堆排 | 归并 | 冒泡  | 插入 | 库函数 |
 | :------------------------------------------------- | :------- | :--- | :--- | :--- | :---- | :--- | ------ |

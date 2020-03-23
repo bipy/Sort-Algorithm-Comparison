@@ -14,7 +14,7 @@ Also welcome to pull request~
 
 **language: CN**
 
-[排序算法的比较 (Java)](https://bipy.github.io/blog/Sort-Algorithm-Comparison/)
+[排序算法的比较 (Java)](https://blog.zhengrh.com/post/Sort-Algorithm-Comparison/)
 
 # Feature
 
@@ -63,9 +63,7 @@ Test case information as followings:
 - Case 5: 10^5 backward sequence, Initial value 5×10^4, decrease step distance range [0,5)，Mathematical expectation 1
 - Case 6: 10^5 mostly ordered sequence, get forward sequence, Let rate be unordered, randomly shuffle N×unordered elements among sequence
 
-# Summary
-
-## Output
+# Output
 
 ```text
     0     0     0     0     0     0     0     0 
@@ -80,7 +78,7 @@ Process finished with exit code 0
 
 ```
 
-## Statistics (ms)
+# Statistics (ms)
 
 | Test Case \ Algorithm                            | Randomized Quick | Quick | Heap | Merge | Bubble | Insertion | Arrays.sort() |
 | :----------------------------------------------- | :--------------- | :---- | :--- | :---- | :----- | :-------- | ------------- |
